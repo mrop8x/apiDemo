@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "id": "3",
+      "title": "title 3",
+      "views": 300
+    },
+    {
+      "id": "be4d",
+      "title": "title 4",
+      "views": "400"
+    },
+    {
+      "id": "07fb",
+      "title": "",
+      "views": ""
+    },
+    {
+      "id": "027f",
+      "title": "tedhdsfjkdfgjkd",
+      "views": "44"
+    },
+    {
+      "id": "8524",
+      "title": "shshsdfhs",
+      "views": "33"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": null
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": null
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
